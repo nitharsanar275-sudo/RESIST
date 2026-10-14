@@ -1,0 +1,142 @@
+Month,Region,Organism,Antibiotic,Resistant,Tested,Scenario
+2025-01-01,North Zone,E. coli,Ciprofloxacin,15,112,A - Stable
+2025-02-01,North Zone,E. coli,Ciprofloxacin,18,133,A - Stable
+2025-03-01,North Zone,E. coli,Ciprofloxacin,25,129,A - Stable
+2025-04-01,North Zone,E. coli,Ciprofloxacin,19,123,A - Stable
+2025-05-01,North Zone,E. coli,Ciprofloxacin,20,122,A - Stable
+2025-06-01,North Zone,E. coli,Ciprofloxacin,18,135,A - Stable
+2025-07-01,North Zone,E. coli,Ciprofloxacin,13,112,A - Stable
+2025-08-01,North Zone,E. coli,Ciprofloxacin,19,130,A - Stable
+2025-09-01,North Zone,E. coli,Ciprofloxacin,11,116,A - Stable
+2025-10-01,North Zone,E. coli,Ciprofloxacin,19,112,A - Stable
+2025-11-01,North Zone,E. coli,Ciprofloxacin,18,125,A - Stable
+2025-12-01,North Zone,E. coli,Ciprofloxacin,22,139,A - Stable
+2026-01-01,North Zone,E. coli,Ciprofloxacin,17,132,A - Stable
+2026-02-01,North Zone,E. coli,Ciprofloxacin,27,132,A - Stable
+2026-03-01,North Zone,E. coli,Ciprofloxacin,24,131,A - Stable
+2026-04-01,North Zone,E. coli,Ciprofloxacin,22,133,A - Stable
+2026-05-01,North Zone,E. coli,Ciprofloxacin,14,125,A - Stable
+2026-06-01,North Zone,E. coli,Ciprofloxacin,15,113,A - Stable
+2025-01-01,East Zone,K. pneumoniae,Meropenem,5,104,B - Unusual increase
+2025-02-01,East Zone,K. pneumoniae,Meropenem,7,91,B - Unusual increase
+2025-03-01,East Zone,K. pneumoniae,Meropenem,6,106,B - Unusual increase
+2025-04-01,East Zone,K. pneumoniae,Meropenem,9,94,B - Unusual increase
+2025-05-01,East Zone,K. pneumoniae,Meropenem,8,112,B - Unusual increase
+2025-06-01,East Zone,K. pneumoniae,Meropenem,12,110,B - Unusual increase
+2025-07-01,East Zone,K. pneumoniae,Meropenem,11,117,B - Unusual increase
+2025-08-01,East Zone,K. pneumoniae,Meropenem,7,112,B - Unusual increase
+2025-09-01,East Zone,K. pneumoniae,Meropenem,11,100,B - Unusual increase
+2025-10-01,East Zone,K. pneumoniae,Meropenem,12,119,B - Unusual increase
+2025-11-01,East Zone,K. pneumoniae,Meropenem,7,102,B - Unusual increase
+2025-12-01,East Zone,K. pneumoniae,Meropenem,6,99,B - Unusual increase
+2026-01-01,East Zone,K. pneumoniae,Meropenem,11,117,B - Unusual increase
+2026-02-01,East Zone,K. pneumoniae,Meropenem,5,101,B - Unusual increase
+2026-03-01,East Zone,K. pneumoniae,Meropenem,9,92,B - Unusual increase
+2026-04-01,East Zone,K. pneumoniae,Meropenem,11,104,B - Unusual increase
+2026-05-01,East Zone,K. pneumoniae,Meropenem,32,113,B - Unusual increase
+2026-06-01,East Zone,K. pneumoniae,Meropenem,34,95,B - Unusual increase
+2025-01-01,West Zone,S. aureus,Oxacillin,2,12,C - Insufficient evidence
+2025-02-01,West Zone,S. aureus,Oxacillin,3,9,C - Insufficient evidence
+2025-03-01,West Zone,S. aureus,Oxacillin,0,4,C - Insufficient evidence
+2025-04-01,West Zone,S. aureus,Oxacillin,0,11,C - Insufficient evidence
+2025-05-01,West Zone,S. aureus,Oxacillin,1,9,C - Insufficient evidence
+2025-07-01,West Zone,S. aureus,Oxacillin,1,9,C - Insufficient evidence
+2025-08-01,West Zone,S. aureus,Oxacillin,2,9,C - Insufficient evidence
+2025-09-01,West Zone,S. aureus,Oxacillin,1,4,C - Insufficient evidence
+2025-11-01,West Zone,S. aureus,Oxacillin,3,11,C - Insufficient evidence
+2025-12-01,West Zone,S. aureus,Oxacillin,2,7,C - Insufficient evidence
+2026-01-01,West Zone,S. aureus,Oxacillin,2,10,C - Insufficient evidence
+2026-02-01,West Zone,S. aureus,Oxacillin,1,4,C - Insufficient evidence
+2026-03-01,West Zone,S. aureus,Oxacillin,0,7,C - Insufficient evidence
+2026-04-01,West Zone,S. aureus,Oxacillin,1,8,C - Insufficient evidence
+2026-06-01,West Zone,S. aureus,Oxacillin,1,6,C - Insufficient evidence
+2025-01-01,North Zone,E. coli,Ceftriaxone,13,123,Context
+2025-02-01,North Zone,E. coli,Ceftriaxone,11,121,Context
+2025-03-01,North Zone,E. coli,Ceftriaxone,8,120,Context
+2025-04-01,North Zone,E. coli,Ceftriaxone,8,113,Context
+2025-05-01,North Zone,E. coli,Ceftriaxone,18,121,Context
+2025-06-01,North Zone,E. coli,Ceftriaxone,15,104,Context
+2025-07-01,North Zone,E. coli,Ceftriaxone,14,127,Context
+2025-08-01,North Zone,E. coli,Ceftriaxone,9,115,Context
+2025-09-01,North Zone,E. coli,Ceftriaxone,19,128,Context
+2025-10-01,North Zone,E. coli,Ceftriaxone,13,104,Context
+2025-11-01,North Zone,E. coli,Ceftriaxone,13,114,Context
+2025-12-01,North Zone,E. coli,Ceftriaxone,11,120,Context
+2026-01-01,North Zone,E. coli,Ceftriaxone,9,114,Context
+2026-02-01,North Zone,E. coli,Ceftriaxone,7,113,Context
+2026-03-01,North Zone,E. coli,Ceftriaxone,14,104,Context
+2026-04-01,North Zone,E. coli,Ceftriaxone,11,111,Context
+2026-05-01,North Zone,E. coli,Ceftriaxone,8,107,Context
+2026-06-01,North Zone,E. coli,Ceftriaxone,9,109,Context
+2025-01-01,East Zone,E. coli,Ceftriaxone,10,124,Context
+2025-02-01,East Zone,E. coli,Ceftriaxone,13,117,Context
+2025-03-01,East Zone,E. coli,Ceftriaxone,8,116,Context
+2025-04-01,East Zone,E. coli,Ceftriaxone,12,105,Context
+2025-05-01,East Zone,E. coli,Ceftriaxone,12,113,Context
+2025-06-01,East Zone,E. coli,Ceftriaxone,11,125,Context
+2025-07-01,East Zone,E. coli,Ceftriaxone,8,100,Context
+2025-08-01,East Zone,E. coli,Ceftriaxone,15,122,Context
+2025-09-01,East Zone,E. coli,Ceftriaxone,10,114,Context
+2025-10-01,East Zone,E. coli,Ceftriaxone,20,121,Context
+2025-11-01,East Zone,E. coli,Ceftriaxone,15,119,Context
+2025-12-01,East Zone,E. coli,Ceftriaxone,12,112,Context
+2026-01-01,East Zone,E. coli,Ceftriaxone,14,109,Context
+2026-02-01,East Zone,E. coli,Ceftriaxone,8,118,Context
+2026-03-01,East Zone,E. coli,Ceftriaxone,18,104,Context
+2026-04-01,East Zone,E. coli,Ceftriaxone,14,117,Context
+2026-05-01,East Zone,E. coli,Ceftriaxone,15,102,Context
+2026-06-01,East Zone,E. coli,Ceftriaxone,9,119,Context
+2025-01-01,South Zone,E. coli,Ceftriaxone,6,108,Context
+2025-02-01,South Zone,E. coli,Ceftriaxone,16,114,Context
+2025-03-01,South Zone,E. coli,Ceftriaxone,18,120,Context
+2025-04-01,South Zone,E. coli,Ceftriaxone,9,114,Context
+2025-05-01,South Zone,E. coli,Ceftriaxone,13,113,Context
+2025-06-01,South Zone,E. coli,Ceftriaxone,10,128,Context
+2025-07-01,South Zone,E. coli,Ceftriaxone,13,104,Context
+2025-08-01,South Zone,E. coli,Ceftriaxone,11,117,Context
+2025-09-01,South Zone,E. coli,Ceftriaxone,14,116,Context
+2025-10-01,South Zone,E. coli,Ceftriaxone,14,114,Context
+2025-11-01,South Zone,E. coli,Ceftriaxone,16,124,Context
+2025-12-01,South Zone,E. coli,Ceftriaxone,8,108,Context
+2026-01-01,South Zone,E. coli,Ceftriaxone,19,128,Context
+2026-02-01,South Zone,E. coli,Ceftriaxone,10,109,Context
+2026-03-01,South Zone,E. coli,Ceftriaxone,7,116,Context
+2026-04-01,South Zone,E. coli,Ceftriaxone,13,115,Context
+2026-05-01,South Zone,E. coli,Ceftriaxone,12,125,Context
+2026-06-01,South Zone,E. coli,Ceftriaxone,16,113,Context
+2025-01-01,West Zone,E. coli,Ceftriaxone,14,113,Context
+2025-02-01,West Zone,E. coli,Ceftriaxone,26,124,Context
+2025-03-01,West Zone,E. coli,Ceftriaxone,21,128,Context
+2025-04-01,West Zone,E. coli,Ceftriaxone,16,109,Context
+2025-05-01,West Zone,E. coli,Ceftriaxone,18,106,Context
+2025-06-01,West Zone,E. coli,Ceftriaxone,21,128,Context
+2025-07-01,West Zone,E. coli,Ceftriaxone,16,119,Context
+2025-08-01,West Zone,E. coli,Ceftriaxone,12,108,Context
+2025-09-01,West Zone,E. coli,Ceftriaxone,18,118,Context
+2025-10-01,West Zone,E. coli,Ceftriaxone,16,115,Context
+2025-11-01,West Zone,E. coli,Ceftriaxone,15,127,Context
+2025-12-01,West Zone,E. coli,Ceftriaxone,9,107,Context
+2026-01-01,West Zone,E. coli,Ceftriaxone,19,129,Context
+2026-02-01,West Zone,E. coli,Ceftriaxone,14,128,Context
+2026-03-01,West Zone,E. coli,Ceftriaxone,19,105,Context
+2026-04-01,West Zone,E. coli,Ceftriaxone,11,104,Context
+2026-05-01,West Zone,E. coli,Ceftriaxone,11,115,Context
+2026-06-01,West Zone,E. coli,Ceftriaxone,16,101,Context
+2025-01-01,South Zone,K. pneumoniae,Meropenem,7,116,Context
+2025-02-01,South Zone,K. pneumoniae,Meropenem,3,94,Context
+2025-03-01,South Zone,K. pneumoniae,Meropenem,8,112,Context
+2025-04-01,South Zone,K. pneumoniae,Meropenem,5,95,Context
+2025-05-01,South Zone,K. pneumoniae,Meropenem,10,101,Context
+2025-06-01,South Zone,K. pneumoniae,Meropenem,6,107,Context
+2025-07-01,South Zone,K. pneumoniae,Meropenem,10,111,Context
+2025-08-01,South Zone,K. pneumoniae,Meropenem,12,116,Context
+2025-09-01,South Zone,K. pneumoniae,Meropenem,9,91,Context
+2025-10-01,South Zone,K. pneumoniae,Meropenem,6,95,Context
+2025-11-01,South Zone,K. pneumoniae,Meropenem,11,98,Context
+2025-12-01,South Zone,K. pneumoniae,Meropenem,10,99,Context
+2026-01-01,South Zone,K. pneumoniae,Meropenem,13,119,Context
+2026-02-01,South Zone,K. pneumoniae,Meropenem,7,113,Context
+2026-03-01,South Zone,K. pneumoniae,Meropenem,6,99,Context
+2026-04-01,South Zone,K. pneumoniae,Meropenem,15,119,Context
+2026-05-01,South Zone,K. pneumoniae,Meropenem,8,104,Context
+2026-06-01,South Zone,K. pneumoniae,Meropenem,8,105,Context
